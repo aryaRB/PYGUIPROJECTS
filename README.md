@@ -1,0 +1,2 @@
+# PYGUIPROJECTS
+PROJECTS BASED ON PYautoGui library
